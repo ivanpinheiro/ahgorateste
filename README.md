@@ -18,7 +18,7 @@ Você pode desenvolver usando qualquer idioma, ferramenta ou biblioteca, desde q
 Nenhuma informação adicional será fornecida. Qualquer decisão do projeto pode ser considerada correta.
 Pode ser um aplicativo da web, móvel ou desktop.
 Qualquer informação sobre como executar o projeto deve ser fornecida.
-- O projeto ahgora teste está disponível, utilizando bootstrap para o layout e angular para a comunicação da api do youtube 3.
+- O projeto ahgora teste foi desenvolvido, utilizando bootstrap para o layout e angular para a comunicação da api do youtube 3.
 Você pode nos enviar um pacote com o código-fonte ou um link para o projeto no github ou outro CVS.
 
 Nós realmente apreciamos seu tempo resolvendo este desafio e esperamos ver você em breve!
