@@ -1,4 +1,3 @@
-@@ -0,0 +1,21 @@
 Olá, como parte do processo de contratação na Ahgora, precisamos que você desenvolva um aplicativo com os seguintes recursos:
 1) Pesquise e mostre vídeos do YouTube por um termo de pesquisa;
 2) Mostra as cinco palavras mais usadas nos títulos e descrições do resultado;
