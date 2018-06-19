@@ -1,9 +1,10 @@
-@@ -0,0 +1,21 @@
 Olá, como parte do processo de contratação na Ahgora, precisamos que você desenvolva um aplicativo com os seguintes recursos:
 1) Pesquise e mostre vídeos do YouTube por um termo de pesquisa;
+- Realizei a busca de vídeo por um termo de pesquisa
 2) Mostra as cinco palavras mais usadas nos títulos e descrições do resultado;
 3) Mostra quantos dias são necessários para assistir a todos os vídeos retornados, com as seguintes condições:
 4) O usuário informará quanto tempo ele pode gastar diariamente durante uma semana. Por exemplo, [15, 120, 30, 150, 20, 40, 90] em minutos.
+- Criei os inputs com os dias da semana, e realizei uma função que passa o id do video e retorna a duração de cada vídeo, porém não consegui realizar uma promise correta para guardar os valores em array, e então manipular os dados com um filter.
 5) O usuário não gastará mais tempo assistindo a vídeos do que o máximo diário.
 6) O usuário não iniciará outro vídeo a menos que ele possa terminar no mesmo dia.
 7) Vídeos mais longos que o dia mais longo serão ignorados.
@@ -17,6 +18,7 @@ Você pode desenvolver usando qualquer idioma, ferramenta ou biblioteca, desde q
 Nenhuma informação adicional será fornecida. Qualquer decisão do projeto pode ser considerada correta.
 Pode ser um aplicativo da web, móvel ou desktop.
 Qualquer informação sobre como executar o projeto deve ser fornecida.
+- O projeto ahgora teste está disponível, utilizando bootstrap para o layout e angular para a comunicação da api do youtube 3.
 Você pode nos enviar um pacote com o código-fonte ou um link para o projeto no github ou outro CVS.
 
 Nós realmente apreciamos seu tempo resolvendo este desafio e esperamos ver você em breve!
