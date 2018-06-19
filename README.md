@@ -1,7 +1,7 @@
 #Teste de Conhecimentos Analista Ti Front-end Ahgora Sistemas
 Olá, como parte do processo de contratação na Ahgora, precisamos que você desenvolva um aplicativo com os seguintes recursos:
 ##1) Pesquise e mostre vídeos do YouTube por um termo de pesquisa;
-- Realizei a busca de vídeo por um termo de pesquisa
+ Realizei a busca de vídeo por um termo de pesquisa
 ##2) Mostra as cinco palavras mais usadas nos títulos e descrições do resultado;
 ##3) Mostra quantos dias são necessários para assistir a todos os vídeos retornados, com as seguintes condições:
 4) O usuário informará quanto tempo ele pode gastar diariamente durante uma semana. Por exemplo, [15, 120, 30, 150, 20, 40, 90] em minutos.
